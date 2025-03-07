@@ -43,7 +43,7 @@
 ### Steps
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/image-converter-pro.git
+   git clone https://github.com/mpython77/image-converter-pro.git
    cd image-converter-pro
    ```
 
