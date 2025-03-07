@@ -28,10 +28,11 @@
 - **Logging**: Keep track of operations with a detailed log, which can be saved to a file.
 - **Modern UI**: Tab-based interface with a clean and intuitive design.
 
-## Screenshots
-![Main Tab](![image](https://github.com/user-attachments/assets/9876c184-580e-4c7e-b56f-e4efd84a1dce))  
-![Advanced Effects](![image](https://github.com/user-attachments/assets/4fe20137-e90f-4b3c-b38d-80f55c9ecda0))  
-![Batch Processing](![image](https://github.com/user-attachments/assets/8a07b4cd-c71a-438f-aee0-89bce5a32758))
+## Screenshots  
+![Main Tab](https://github.com/user-attachments/assets/9876c184-580e-4c7e-b56f-e4efd84a1dce)  
+![Advanced Effects](https://github.com/user-attachments/assets/4fe20137-e90f-4b3c-b38d-80f55c9ecda0)  
+![Batch Processing](https://github.com/user-attachments/assets/8a07b4cd-c71a-438f-aee0-89bce5a32758)  
+
 
 ## Installation
 
